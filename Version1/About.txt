@@ -2,3 +2,11 @@ Project Description:
 
 An open-source locking plier design developed to be made economically and easily put together at home. 
 
+Design Materials:
+
+1mm Cold Rolled Steel Sheet
+m6 Bolts and Locking Nuts X 18 
+M5 Allthread 120 mm x1 
+m5 nuts x3 
+
+
