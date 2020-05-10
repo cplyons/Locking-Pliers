@@ -1,0 +1,4 @@
+Project Description:
+
+An open-source locking plier design developed to be made economically and easily put together at home. 
+
